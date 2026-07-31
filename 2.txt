@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 zurmi
+=======
+nima gap
+>>>>>>> kelajak
