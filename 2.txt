@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 zurmi
-=======
 nima gap
->>>>>>> kelajak
-=======
-nima gap
->>>>>>> kelajak
