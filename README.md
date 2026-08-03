@@ -1,0 +1,1 @@
+Nima bor bu yerda?
